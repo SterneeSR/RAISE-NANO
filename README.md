@@ -68,7 +68,7 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 # Email Settings (using SendGrid)
-EMAIL_HOST_USER=your_email_host_user
+DEFAULT_FROM_EMAIL=your_email_host_user
 SENDGRID_API_KEY=your_sendgrid_api_key
 ```
 
