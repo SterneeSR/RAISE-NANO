@@ -57,7 +57,7 @@ ADMIN_EMAIL=your_admin_email
 # Django Settings
 SECRET_KEY=your_super_secret_django_key
 DEBUG=True
-DJANGO_ENV=development
+DJANGO_ENV=production
 
 # Database URL (e.g., for PostgreSQL)
 DATABASE_URL=postgres://USER:PASSWORD@HOST:PORT/DATABASE_NAME
